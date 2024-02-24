@@ -43,4 +43,4 @@ console.log(positiveSum(arr))
 
 
 
-// console.log(positiveSum(arr))
+// console.log(positiveSum(arr)) new
